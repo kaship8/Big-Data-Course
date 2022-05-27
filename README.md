@@ -8,7 +8,8 @@ Begin your acquisition of Big Data knowledge with the most up-to-date definition
 2. To understand the Data Analysis   (1 week)
 3. To understand the Big Data Engineering	 (5 weeks)
 # 3. List of Software
-## 1. Python setup	#### (Open source)
+#### 1. Python setup	
+(Open source)
 ##2. Java setup	####(Open source)
 3. Apache Spark (Open source)
 4. Hadoop	(Open source)
