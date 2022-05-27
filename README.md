@@ -19,7 +19,10 @@ Begin your acquisition of Big Data knowledge with the most up-to-date definition
 #### 5. AWS	
 (Free tier account)
 
-# 4. Introduction to the Topics:
+# 4. Lecture Breakdown:
+There will be 2 lectures per week. Lecture wise details of the topics is decribed in th next section. 
+
+# 5. Introduction to the Topics:
 ### 1. Introduction to Python
 This is chapter One where we explore what it means to write programs. Where, you will set things up so you can write Python programs. Moreover, in this first chapter we try to cover the "big picture" of programming so you get a "table of contents" of the rest of the book.
 ### 2. Python Data types (part 1):
