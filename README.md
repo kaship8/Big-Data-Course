@@ -10,7 +10,11 @@ Begin your acquisition of Big Data knowledge with the most up-to-date definition
 # 3. List of Software
 #### 1. Python setup	
 (Open source)
-##2. Java setup	####(Open source)
-3. Apache Spark (Open source)
-4. Hadoop	(Open source)
-5. AWS	(Free tier account)
+#### 2. Java setup	
+(Open source)
+#### 3. Apache Spark 
+(Open source)
+#### 4. Hadoop	
+(Open source)
+#### 5. AWS	
+(Free tier account)
