@@ -18,3 +18,11 @@ Begin your acquisition of Big Data knowledge with the most up-to-date definition
 (Open source)
 #### 5. AWS	
 (Free tier account)
+
+# 4.	Lecture Breakdown:
+#### 1. Introduction to Python
+* Introduction to python
+* Why python?
+* Google Colab for python coding
+* Python syntax and printing
+* Variables to perform various mathematical operations
