@@ -40,8 +40,8 @@ This is the lecture to learn about the implementations of the concepts we studie
 ### 6.	Classes/Objects, Math, JSON:
 In this lecture, we will create classes/object to learn the object oriented programming. We work with Application Program Interfaces / Web Services using the JavaScript Object Notation (JSON) data format.
 
-### 7.	File Handling:
-In this lecture, we will train the students to handle Excel, CSV and JSON files. You can read and write these files to play with the datasets.
+### 7.	Data Manipulation:
+In this lecture, we will train the students to use Numpy and Pandas to handle Excel, CSV and JSON files. You can read, write, clean and will perform several actions on these files to play with the datasets.
 ### 8.	Data Analysis:
 The lecture will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.
 ### 9.	Introduction to Big Data and PySpark (part 1):
