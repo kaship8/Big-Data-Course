@@ -16,7 +16,7 @@ There will be 2 lectures per week. Lecture wise details of the topics is decribe
 
 # 5. Introduction to the Topics:
 
-### 7.	File Handling:
-In this lecture, we will train the students to handle Excel, CSV and JSON files. You can read and write these files to play with the datasets.
+### 7.	Data Manipulation:
+In this lecture, we will train the students to use Numpy and Pandas to handle Excel, CSV and JSON files. You can read, write, clean and will perform several actions on these files to play with the datasets.
 ### 8.	Data Analysis:
 The lecture will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.
